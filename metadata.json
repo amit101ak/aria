@@ -1,0 +1,10 @@
+{
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "display-capture"
+  ],
+  "name": "Gemini OS aira",
+  "description": "",
+  "prompt": ""
+}
